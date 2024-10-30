@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Polyfux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey! 👋
+---------------------------------------------------------------------------------
 
-<!---
-Polyfux/Polyfux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ich bin Emin, 19 Jahre alt und komme ursprünglich aus Naumburg (Saale).
+
+    🎓 Wirtschaftsinformatiker an der Otto-von-Guericke Universität Magdeburg
+    
+Skills
+---------------------------------------------------------------------------------
+
+- Lerne gerade Java
+- Besitze die Basics in Python
+- Erfahrung mit CAD-Programmen (FreeCAD)
+- Erfahrung mit Blender
+- Erfahrung mit 3D-Druck (FDM/FFF/FLM - Verfahren)
+
