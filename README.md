@@ -1,4 +1,4 @@
-Hey! 👋
+Wer bin ich?
 ---------------------------------------------------------------------------------
 
 Ich bin Emin, 19 Jahre alt und komme ursprünglich aus Naumburg (Saale).
