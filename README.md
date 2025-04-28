@@ -1,15 +1,16 @@
 Wer bin ich?
 ---------------------------------------------------------------------------------
 
-Ich bin Emin, 19 Jahre alt und komme ursprünglich aus Naumburg (Saale).
+Hey, ich bin Emin, 19 Jahre alt. Zurzeit lebe ich in Magdeburg, komme jedoch aus dem Süden von Sachsen-Anhalt, Naumburg (Saale).
 
     🎓 Wirtschaftsinformatiker an der Otto-von-Guericke Universität Magdeburg
+    🛠️ Praktikant beim Startup für eine digitalisierte Verwaltung Falcos GmbH
+    🤝 Mein Linkedin Profil: www.linkedin.com/in/emin-girimhanov
     
 Skills
 ---------------------------------------------------------------------------------
 
 - Lerne gerade Java
-- Besitze die Basics in Python
 - Erfahrung mit CAD-Programmen (FreeCAD)
 - Erfahrung mit Blender
 - Erfahrung mit 3D-Druck (FDM/FFF/FLM - Verfahren)
